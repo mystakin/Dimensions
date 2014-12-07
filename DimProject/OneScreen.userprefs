@@ -1,0 +1,23 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\OverlayVerticality.cs">
+    <Files>
+      <File FileName="Assets\Scripts\Global.cs" Line="19" Column="4" />
+      <File FileName="Assets\Scripts\Health.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\ColliderInteraction.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\BallBehavior.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\EnemyAttack.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\InputManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\RopeCreation.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Cutscene.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\TheEnd.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\OverlayVerticality.cs" Line="31" Column="66" />
+      <File FileName="Assets\MusicManager.cs" Line="32" Column="62" />
+      <File FileName="Assets\TitleScreenManager.cs" Line="30" Column="54" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

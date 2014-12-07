@@ -1,0 +1,18 @@
+
+'Entire Game on One Screen'
+
+Metroidvania. Jump, Flip, Climb, Fly
+
+One Screen, You can see 5 tiles around you? Optional pickups expand screen region?
+
+Stationary enemies. Shoot at you while on screen? Revive 10 tiles away?
+
+Cave. Tech Cave. Circuitry
+
+Speedrun?
+
+Health Drops. 3 Health
+
+Spawn in, collect items, show entire map. Map button zooms out to show full map.
+
+Darkness around you. When you collect next item, world shifts.
